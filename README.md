@@ -1,3 +1,3 @@
 #Learning git via own
 
-learning 
+learning by seeing vedio class.
